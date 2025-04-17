@@ -1,0 +1,41 @@
+# ========== Unity 필수 무시 항목 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ========== VSCode / Visual Studio ==========
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ========== OS 자동 생성 파일 ==========
+.DS_Store
+Thumbs.db
+
+# ========== 빌드 결과 파일 ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.zip
+
+# ========== 기타 유니티 캐시 ==========
+MemoryCaptures/
+sysinfo.txt
+*.stacktrace
+
+# ========== Unity Collaborate ==========
+.collabignore
